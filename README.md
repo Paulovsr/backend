@@ -1,2 +1,2 @@
-# backend
-Deployment files for Node.js frontkend
+# Front End
+Deployment files for Angular.js frontend
