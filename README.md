@@ -1,2 +1,2 @@
 # backend
-Deployment files for Node.js backend
+Deployment files for Node.js frontkend
